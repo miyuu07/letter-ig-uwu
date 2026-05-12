@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head rel="stylesheet" href="style.css">>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My amazing,delicious,peak,cutie boyfriend</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hearts">
+        💙 💙 💙 💙 💙
+    </div>
+
+    <div class="container">
+        <h1>yo gyatt</h1>
+
+        <p>
+            I took hours just to make a website for you and i got bored cause i have nothing to do in the game i play anyway
+            but i just want to say no matter what you're going through,<br>
+            I'm here for you, ig. JOKE IM LEGIT THO i know your uncles passing must be hard especially for your dad but hey in the bright
+            side atleast hes not suffering anymore and in a better place now. I love you so much darling and I care for you deeply
+        </p>
+
+        <button onclick="showMessage()">
+            Click Me
+        </button>
+
+        <h2 id="hiddenMessage"></h2>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
